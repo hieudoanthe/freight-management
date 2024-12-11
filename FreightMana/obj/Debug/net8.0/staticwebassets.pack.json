@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "O:\\FManagement\\FreightMana\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FreightMana.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FreightMana.bundle.scp.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\About_us.html",
+      "PackagePath": "staticwebassets\\About_us.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Confirm_order.html",
+      "PackagePath": "staticwebassets\\Confirm_order.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Contact_us.html",
+      "PackagePath": "staticwebassets\\Contact_us.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Create_goods.html",
+      "PackagePath": "staticwebassets\\Create_goods.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Create_order.html",
+      "PackagePath": "staticwebassets\\Create_order.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Customer.html",
+      "PackagePath": "staticwebassets\\Customer.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Customer_order.html",
+      "PackagePath": "staticwebassets\\Customer_order.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Dashboard.html",
+      "PackagePath": "staticwebassets\\Dashboard.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\List_order.html",
+      "PackagePath": "staticwebassets\\List_order.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Login_admin.html",
+      "PackagePath": "staticwebassets\\Login_admin.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Login_customer.html",
+      "PackagePath": "staticwebassets\\Login_customer.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Our_service.html",
+      "PackagePath": "staticwebassets\\Our_service.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Price.html",
+      "PackagePath": "staticwebassets\\Price.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Search.html",
+      "PackagePath": "staticwebassets\\Search.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Staff.html",
+      "PackagePath": "staticwebassets\\Staff.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\Time_work.html",
+      "PackagePath": "staticwebassets\\Time_work.html"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\create_goods.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\create_goods.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\create_order.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\create_order.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\dashboard.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\list_order.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\list_order.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\login_admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\login_admin.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\sidebar.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\staff.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\staff.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Admin\\time_work.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\time_work.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\about_us.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\about_us.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\contact_us.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\contact_us.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\footer.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\home.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\home.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\login_customer.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\login_customer.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\nab_bar.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\nab_bar.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\our_services.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\our_services.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\price.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\price.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\Customer\\search.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\search.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\avt.png",
+      "PackagePath": "staticwebassets\\img\\avt.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\backImg.jpg",
+      "PackagePath": "staticwebassets\\img\\backImg.jpg"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\client-1.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\client-2.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\fevicon.png",
+      "PackagePath": "staticwebassets\\img\\fevicon.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\prev.png",
+      "PackagePath": "staticwebassets\\img\\prev.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\s1.png",
+      "PackagePath": "staticwebassets\\img\\s1.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\s2.png",
+      "PackagePath": "staticwebassets\\img\\s2.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\s3.png",
+      "PackagePath": "staticwebassets\\img\\s3.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\s4.png",
+      "PackagePath": "staticwebassets\\img\\s4.png"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-bg.jpg"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\img\\track-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\track-bg.jpg"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\add_staff.js",
+      "PackagePath": "staticwebassets\\js\\add_staff.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\create_order.js",
+      "PackagePath": "staticwebassets\\js\\create_order.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\customer.js",
+      "PackagePath": "staticwebassets\\js\\customer.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\data.json",
+      "PackagePath": "staticwebassets\\js\\data.json"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\receive_address.js",
+      "PackagePath": "staticwebassets\\js\\receive_address.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\send_address.js",
+      "PackagePath": "staticwebassets\\js\\send_address.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\shipping.js",
+      "PackagePath": "staticwebassets\\js\\shipping.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\sidebar.js",
+      "PackagePath": "staticwebassets\\js\\sidebar.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "O:\\FManagement\\FreightMana\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FreightMana.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FreightMana.props",
+      "PackagePath": "build\\FreightMana.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FreightMana.props",
+      "PackagePath": "buildMultiTargeting\\FreightMana.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FreightMana.props",
+      "PackagePath": "buildTransitive\\FreightMana.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
